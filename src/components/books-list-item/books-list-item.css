@@ -1,0 +1,17 @@
+.books-list-item {
+    /* border: 1px solid cyan; */
+}
+
+.books-list-item button {
+    margin: 3px;
+}
+
+.books-list-item-label {
+    font-size: 1.2rem;
+    vertical-align: middle;
+    margin: 10px;
+}
+
+.books-list-item-label.read {
+    color: gray;
+}

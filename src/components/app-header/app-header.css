@@ -1,0 +1,16 @@
+.appHeader {
+    text-align: center;
+    margin: 2rem;
+}
+
+.appHeader h1 {
+    color: #4c4c4c;
+    /* border: 1px solid red; */
+    margin-bottom: 1rem;
+}
+
+.appHeader i {
+    color: tomato;
+    /* border: 2px solid red; */
+    padding-right: 0.5rem;
+}
